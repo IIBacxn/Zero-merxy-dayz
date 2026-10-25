@@ -1,0 +1,24 @@
+{
+  "id": "/",
+  "name": "DayZ Standalone Loadout Builder",
+  "short_name": "DayZ Loadout",
+  "description": "Build, save and share DayZ loadouts. Powered by the Zero Merxy community.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080d0a",
+  "theme_color": "#101812",
+  "categories": [
+    "games",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
